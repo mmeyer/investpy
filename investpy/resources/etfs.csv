@@ -1,3 +1,12 @@
 country,name,full_name,symbol,tag,id,isin,asset_class,currency,stock_exchange,def_stock_exchange
-united kingdom,SPDR S&P U.S. Technology Select Sector UCITS,SPDR S&P U.S. Technology Select Sector UCITS,SXLK,spdr-sp-us-tech-select-sector,1156748,IEXXXXXXXXXX,equity,USD,London,True
-united kingdom,SPDR S&P U.S. Utilities Select Sector UCITS,SPDR S&P U.S. Utilities Select Sector UCITS,SXLU,spdr-sp-us-utils-select-sector,1164408,IEXXXXXXXXXX,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Technology Select Sector UCITS,SPDR S&P U.S. Technology Select Sector UCITS,SXLK,spdr-sp-us-tech-select-sector,1156748,IE00BWBXM948,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Utilities Select Sector UCITS,SPDR S&P U.S. Utilities Select Sector UCITS,SXLU,spdr-sp-us-utils-select-sector,1164408,IE00BWBXMB69,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Financials Select Sector UCITS,SPDR S&P U.S. Financials Select Sector UCITS,SXLF,spdr-sp-us-fin-select-sector,1164399,IE00BWBXM500,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Industrials Select Sector UCITS,SPDR S&P U.S. Industrials Select Sector UCITS,SXLI,spdr-sp-us-indust-select-sector,1164413,IE00BWBXM724,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Consumer Discretionary Select Sector UCITS,SPDR S&P U.S. Consumer Discretionary Select Sector UCITS,SXLY,spdr-sp-us-consum-discr-sel-sect,1164406,IE00BWBXM278,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Health Care Select Sector UCITS,SPDR S&P U.S. Health Care Select Sector UCITS,SXLV,spdr-sp-us-hc-select-sector,1165070,IE00BWBXM617,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Energy Select Sector UCITS,SPDR S&P U.S. Energy Select Sector UCITS,SXLE,spdr-sp-us-energy-select-sector,1164402,IE00BWBXM492,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Materials Select Sector UCITS,SPDR S&P U.S. Materials Select Sector UCITS,SXLB,spdr-sp-us-mats-select-sector,1164416,IE00BWBXM831,equity,USD,London,True
+united kingdom,SPDR S&P U.S. Consumer Staples Select Sector UCITS,SPDR S&P U.S. Consumer Staples Select Sector UCITS,SXLP,spdr-sp-us-consum-staples-sel-sect,1164412,IE00BWBXM385,equity,USD,London,True
+united kingdom,iShares US Property Yield UCITS,iShares US Property Yield UCITS,IDUP,ishares-ftse-nareit-us-prop-fd,995445,IE00B1FZSF77,equity,USD,London,True
+united kingdom,VanEck Vectors™ Gold Miners UCITS ETF,VanEck Vectors™ Gold Miners UCITS ETF,GDX,market-vectors-gold-miners-uk,995445,IE00BQQP9F84,equity,USD,London,True
